@@ -1,3 +1,3 @@
 function printmail() {
-    alert(3);
+    alert((lbMail.value+"-"+lbPassword.value));
 }
