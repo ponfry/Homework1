@@ -1,3 +1,3 @@
-/**
- * Created by user on 05.05.2016.
- */
+function printmail() {
+    alert(3);
+}
